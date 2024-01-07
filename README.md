@@ -3,7 +3,7 @@ A Python program using OpenCV to demonstrate the use of a CNN filter to extract 
 
 The original file is located at
     https://colab.research.google.com/drive/136NtHZ-itJLIRu1AGOUl1BOh3kK1hJX_
-
+    
 This program demonstrates the use of a CNN filter to extract edge information from an image. 
 The program allows the user to resize the input image to any pixel size, like 320 x 320, 128 x 128, etc. 
 A filter of a 3 x 3 with one channel size is convoluted to the input image of the feature image to 
